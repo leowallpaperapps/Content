@@ -1,0 +1,32 @@
+
+{
+  "app_id": 1,
+  "app_name": "Application Name",
+  "app_package_name": "com.XXXX.YYYY",
+  "current_advertise_type": 1,
+  "redirect_url": "",
+  "facebook_keys": {
+    "android": {
+      "interstitial": "418573849520500_544273330283884",
+      "banner": "418573849520500_422870502424168",
+      "native": "418573849520500_422852852425933"
+    },
+    "iOS": {
+      "interstitial": "418573849520500_544274400283777",
+      "banner": "418573849520500_544274033617147",
+      "native": "418573849520500_544274516950432"
+    }
+  },
+  "google_keys": {
+    "android": {
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "iOS": {
+      "interstitial": "418573849520500_544274400283777",
+      "banner": "418573849520500_544274033617147",
+      "native": "418573849520500_544274516950432"
+    }
+  }
+}
